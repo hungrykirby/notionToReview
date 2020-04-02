@@ -1,0 +1,2 @@
+# notionToReview
+Notionのデータの中からレビューしたものを抽出する
